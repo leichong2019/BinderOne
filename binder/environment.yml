@@ -24,3 +24,4 @@ dependencies:
   - appmode
   - jieba
   - wordcloud
+  - scikit-image
