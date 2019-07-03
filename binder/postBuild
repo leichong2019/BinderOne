@@ -15,3 +15,6 @@ pip install pkuseg
 pip install Pillow==4.3.0
 pip install multidict
 pip install pyhanlp
+pip install beautifulsoup4
+pip install Twisited
+pip install scrapy
